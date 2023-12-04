@@ -1,0 +1,1 @@
+# test-reset-changes-component-bellini-component
